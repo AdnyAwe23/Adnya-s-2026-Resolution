@@ -1,0 +1,2 @@
+Things you must consider :
+- Connection between RS-485 Module with MCU 
