@@ -1,0 +1,4 @@
+List project : 
+- Gateway Module with Modbus Serial and TCP/IP 
+- Web Interfacing for Sensor Data
+- Database using MySQL 
